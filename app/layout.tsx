@@ -33,7 +33,7 @@ export const metadata: Metadata = {
       "Play casino games with virtual currency. Perfect for learning and entertainment without financial risk.",
     type: "website",
     locale: "en_US",
-    url: "https://demostake.vercel.app",
+    url: "https://fake-stake-main.vercel.app/",
     images: [
       {
         url: "/assets/stake-logo.svg",
